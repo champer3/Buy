@@ -1,0 +1,16 @@
+{
+  "name": "buy-backend",
+  "version": "1.0.0",
+  "description": "Backend of an ecommerce website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "author": "Stephen Okunola",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18"
+  }
+}
